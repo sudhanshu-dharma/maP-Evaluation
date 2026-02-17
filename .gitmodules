@@ -1,0 +1,3 @@
+[submodule "HFF-Remover"]
+	path = HFF-Remover
+	url = https://github.com/sudhanshu-dharma/HFF-Remover.git
